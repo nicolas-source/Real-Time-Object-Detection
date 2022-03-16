@@ -103,5 +103,6 @@ class ObjectDetection:
             out.write(frame)
 
 # Create a new object and execute.
-a = ObjectDetection("https://www.youtube.com/watch?v=dwD1n7N7EAg")
+# a = ObjectDetection("https://www.youtube.com/watch?v=dwD1n7N7EAg")
+a = ObjectDetection("https://www.youtube.com/watch?v=YB0xhCD47Zk")
 a()
